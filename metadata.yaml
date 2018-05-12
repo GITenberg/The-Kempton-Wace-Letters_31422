@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31422#The-Kempton-Wace-Letters
 gutenberg_issued: '2010-02-27'
 gutenberg_type: Text
 identifiers:
