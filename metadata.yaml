@@ -1,0 +1,35 @@
+_repo: The-Kempton-Wace-Letters_31422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Walling, Anna Strunsky
+    alias: Strunsky, Anna
+    birthdate: 1879
+    deathdate: 1964
+    gutenberg_agent_id: '35217'
+    url: http://www.gutenberg.org/2009/agents/35217
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Strunsky
+  - agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Epistolary fiction'
+title: The Kempton-Wace Letters
+url: http://www.gutenberg.org/ebooks/31422
